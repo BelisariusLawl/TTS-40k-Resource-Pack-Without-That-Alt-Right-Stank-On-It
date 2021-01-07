@@ -24,10 +24,10 @@ Once you've got these two components, load up your map base in TTS and follow th
     - You can either navigate to this in the Map Pack folder in your Saves or just search for "map index" in the search bar to go straight to it<br/>
     - The 'Additive Load' option can be found by clicking on the 3 dots in the upper right corner of a tile
   4) Accept the popup that says that TTS wants to open a URL so that it can load the Map Index
-  5) Use the Map Index to determine which map you want to load.<br/>
-    - For more information on how to use the index, see "Using the Map Index" below.
+  5) Use the Map Index to determine which map you want to load<br/>
+    - For more information on how to use the index, see "Using the Map Index" below
   6) Delete the Map Index Tablet or move it off the play space to some other part of the map base. You may need to click away from the tablet before being able to select and move/delete it.
-  7) Using the Games menu again, search for the map you selected via the search bar and additive load it into the table.
+  7) Using the Games menu again, search for the map you selected via the search bar and additive load it into the table
 
 ## The Map Index
 
