@@ -32,10 +32,10 @@ The Map Index is a tool for picking maps that will work for a particular mission
 
 ### Using the Map Index
 
-As mentioned above, the Map Index can be used either as a [standalone google sheet]([here](https://docs.google.com/spreadsheets/d/16q2N1kH5Qmx_2X1uieNEGSmBKINaIf1I2aHZrRfLB6M/edit?usp=sharing)) or by loading in the Map Index Tablet in TTS. I recommend the latter.
+As mentioned above, the Map Index can be used either as a [standalone google sheet](https://docs.google.com/spreadsheets/d/16q2N1kH5Qmx_2X1uieNEGSmBKINaIf1I2aHZrRfLB6M/edit?usp=sharing) or by loading in the Map Index Tablet in TTS. I recommend the latter.
 
 To use the index, you'll need to know which mission you're playing. Once you do, simply click the filter button (funnel icon) in the menus at the top of the sheet and select your mission. The list of maps will be filtered to only show maps that are compatible with that mission.
 
 The map names in the leftmost column are all links to pictures of the maps themselves so that you can preview each compatible map. To go back to the list of compatible maps from any preview image, use the back button (left arrow) on the tablet. The Map Index will automatically reapply the same filter you had, though it may take a second to do so. While unfortunately the filtering on the Map Index will only work for the person who spawned in the tablet - the other player(s) will not be able to see the filtered list - the preview images should display for all players. This will hopefully make it easy for players to decide which map to use without having to load and delete several maps, since it provides a much clearer view of the map than the thumbnails that TTS shows.
 
-Enjoy, and if you have any bug to report, suggestions to offer, or requests for maps I should add please create a GitHub issue so we can continue to improve this resource pack!
+<b>Enjoy, and if you have any bug to report, suggestions to offer, or requests for maps I should add please create a GitHub issue so we can continue to improve this resource pack!</b>
