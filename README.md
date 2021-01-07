@@ -14,17 +14,17 @@ Items 2 and 3 are accomplished by means of the Map Index, which can be found [he
 
 In order to use this pack, you'll want to have a 40k map base mod for TTS. I highly recommend [the FTC 40k 9th Edition Map Base](https://steamcommunity.com/workshop/filedetails/?id=2121424734). Everything in this pack is intended to be loaded into your map base of choice using TTS's Additive Load capability.
 
-To access the maps in this pack within TTS, you'll need to add them to your TTS saves. To do so, download this repository as a ZIP archive and extract it. Then copy or move the Map Pack folder directly into your TTS "Saves" folder. On a Windows machine, this generally means putting the Map Pack folder in My Documents>My Games>Tabletop Simulator>Saves".
+To access the maps in this pack within TTS, you'll need to add them to your TTS saves. To do so, download this repository as a ZIP archive and extract it. Then copy or move the Map Pack folder directly into your TTS "Saves" folder. On a Windows machine, this generally means putting the Map Pack folder in My Documents>My Games>Tabletop Simulator>Saves.
 
 Once you've got these two components, load up your map base in TTS and follow these steps:
 
   1) Set and confirm your table size
   2) If you don't already have a mission selected, select or roll for one as necessary
-  3) Using the Games menu, load in the Map Index Tablet save via additive load
-    - You can either navigate to this in the Map Pack folder in your Saves or just search for "map index" in the search bar to go straight to it
+  3) Using the Games menu, load in the Map Index Tablet save via additive load<br/>
+    - You can either navigate to this in the Map Pack folder in your Saves or just search for "map index" in the search bar to go straight to it<br/>
     - The 'Additive Load' option can be found by clicking on the 3 dots in the upper right corner of a tile
   4) Accept the popup that says that TTS wants to open a URL so that it can load the Map Index
-  5) Use the Map Index to determine which map you want to load.
+  5) Use the Map Index to determine which map you want to load.<br/>
     - For more information on how to use the index, see "Using the Map Index" below.
   6) Delete the Map Index Tablet or move it off the play space to some other part of the map base. You may need to click away from the tablet before being able to select and move/delete it.
   7) Using the Games menu again, search for the map you selected via the search bar and additive load it into the table.
@@ -40,5 +40,5 @@ As mentioned above, the Map Index can be used either as a [standalone google she
 To use the index, you'll need to know which mission you're playing. Once you do, simply click the filter button (funnel icon) in the menus at the top of the sheet and select your mission. The list of maps will be filtered to only show maps that are compatible with that mission.
 
 The map names in the leftmost column are all links to pictures of the maps themselves so that you can preview each compatible map. To go back to the list of compatible maps from any preview image, use the back button (left arrow) on the tablet. The Map Index will automatically reapply the same filter you had, though it may take a second to do so. While unfortunately the filtering on the Map Index will only work for the person who spawned in the tablet - the other player(s) will not be able to see the filtered list - the preview images should display for all players. This will hopefully make it easy for players to decide which map to use without having to load and delete several maps, since it provides a much clearer view of the map than the thumbnails that TTS shows.
-
+<br/><br/><br/>
 <b>Enjoy, and if you have any bug to report, suggestions to offer, or requests for maps I should add please create a GitHub issue so we can continue to improve this resource pack!</b>
