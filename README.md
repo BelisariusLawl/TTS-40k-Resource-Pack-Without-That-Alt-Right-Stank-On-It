@@ -1,6 +1,6 @@
 # Welcome to the stank-free Warhammer 40k resource pack for Tabletop Simulator!
 
-<b>NOTE: As of right now this pack only includes Strike Force (60" x 44") maps. Maps for Combat Patrol, Incursion, and Onslaught missions will be added soon.</b>
+<b>NOTE: As of right now this pack only includes Combat Patrol, Incursion, and Strike Force maps, and the Map Index (see below) only includes the Strike Force maps. Onslaught maps and Map Index support for Combat Patrol & Incursion maps may be added in the future.</b>
 
 ## Intro
 This pack is designed for use with the FTC Map Base. Its purpose is to make it easier to play 40k on Tabletop Simulator (TTS) in the following ways:
