@@ -2,7 +2,7 @@
 
 <b>NOTE: As of right now this pack only includes Combat Patrol, Incursion, and Strike Force maps, and the Map Index (see below) only includes the Strike Force maps. Onslaught maps and Map Index support for Combat Patrol & Incursion maps may be added in the future.</b>
 
-## Intro
+## The Basics
 This pack is designed for use with the FTC Map Base. Its purpose is to make it easier to play 40k on Tabletop Simulator (TTS) in the following ways:
   1) Provide a set of maps with consistent and easy-to-read terrain labels
   2) Help players quickly determine which maps will work for which missions (based on the mission objective marker placement and the map terrain placement)
